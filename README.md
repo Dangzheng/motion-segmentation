@@ -36,7 +36,7 @@ images and calibration results were get form Sintel flow (temple2).
 * ./test frame_0020.png
 
 ### about the input
-* Both forward and backward optical results are requaired. 
+* Both forward and backward optical results are required. 
 
 ```
 Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation
@@ -46,7 +46,7 @@ Christian Bailer, Bertram Taetz, Didier Stricker
 EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow
 Jerome Revauda, Philippe Weinzaepfela, Zaid Harchaouia, Cordelia Schmida
 ```
-Code from both of the paper have been used to get optical result. Full size image will cost a lot of time, so I provide matlab code to downsize the optical results and input image.
+Code from both of the paper have been used to get optical result. Full size image will cost a lot of time, so I provide matlab code to downsize the optical results and input image. Full size data has been contained in full data folder.
 
 * optical flow result example(foreward and backward)
  ![fore](full data/fore.png)
