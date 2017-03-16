@@ -49,11 +49,15 @@ Jerome Revauda, Philippe Weinzaepfela, Zaid Harchaouia, Cordelia Schmida
 Code from both of the paper have been used to get optical result. Full size image will cost a lot of time, so I provide matlab code to downsize the optical results and input image. Full size data has been contained in full data folder.
 
 * optical flow result example(foreward and backward)
- ![fore](full data/fore.png)
- ![fore](full data/back.png)
+
+![fore](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/fore.png)
+ 
+![back](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/back.png)
 
 * input image(left 1/4 size)
-![left_img](full data/frame_0020.png)
+
+![left_img](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/frame_0020.png)
 
 * output image(1/4 size)
-![out](full data/out.png)
+
+![out](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/out.png)
