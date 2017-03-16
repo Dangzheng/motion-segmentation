@@ -50,14 +50,14 @@ Code from both of the paper have been used to get optical result. Full size imag
 
 * optical flow result example(foreward and backward)
 
-![fore](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/fore.png)
+![fore](https://github.com/Dangzheng/motion-segmentation/raw/master/full_data/fore.png)
  
-![back](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/back.png)
+![back](https://github.com/Dangzheng/motion-segmentation/raw/master/full_data/back.png)
 
 * input image(left 1/4 size)
 
-![left_img](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/frame_0020.png)
+![left_img](https://github.com/Dangzheng/motion-segmentation/raw/master/full_data/frame_0020.png)
 
 * output image(1/4 size)
 
-![out](https://github.com/Dangzheng/motion-segmentation/raw/master/full data/out.png)
+![out](https://github.com/Dangzheng/motion-segmentation/raw/master/full_data/out.png)
